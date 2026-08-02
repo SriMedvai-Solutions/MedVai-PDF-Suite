@@ -1,0 +1,10 @@
+PyMuPDF / MuPDF is dual licensed under:
+
+1. GNU Affero General Public License version 3; or
+2. An Artifex commercial licence.
+
+MedVai PDF Suite uses the open-source AGPL route. The complete GNU AGPL v3
+text is included in the repository root as LICENSE.
+
+PyMuPDF and MuPDF are copyright their respective authors and Artifex Software,
+Inc. Artifex, MuPDF, and related logos are trademarks of Artifex Software, Inc.
