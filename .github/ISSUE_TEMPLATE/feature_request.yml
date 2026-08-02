@@ -1,0 +1,40 @@
+name: Feature request
+description: Suggest an improvement for MedVai PDF Suite
+title: "[Feature] "
+labels:
+  - enhancement
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for suggesting an improvement.
+
+  - type: textarea
+    id: feature
+    attributes:
+      label: What feature would you like?
+      description: Explain the feature in simple words.
+    validations:
+      required: true
+
+  - type: textarea
+    id: reason
+    attributes:
+      label: Why would this be useful?
+    validations:
+      required: true
+
+  - type: textarea
+    id: example
+    attributes:
+      label: Example
+      description: Describe how you expect it to work.
+
+  - type: checkboxes
+    id: privacy
+    attributes:
+      label: Privacy confirmation
+      options:
+        - label: I have not attached confidential, medical, or private documents.
+          required: true
