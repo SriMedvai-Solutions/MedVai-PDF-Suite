@@ -1,0 +1,45 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# PyInstaller output
+build/
+dist/
+*.spec.bak
+
+# Local release packages
+release/
+*.exe
+*.zip
+
+# Generated MedVai outputs
+MedVai_Output_*/
+Technical_Audit_Files/
+*_Audit.docx
+*_Page_Map.csv
+*_Bates_Map.csv
+*_Stamp_Verification.csv
+*_Process_Log.txt
+*_NEEDS_REVIEW.pdf
+*_Split_*.pdf
+*_Split_Summary.docx
+
+# Local settings and temporary files
+.medvai/
+*.tmp
+*.log
+
+# Windows files
+Thumbs.db
+desktop.ini
+
+# Editor folders
+.vscode/
+.idea/
