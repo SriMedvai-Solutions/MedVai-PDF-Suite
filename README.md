@@ -11,6 +11,12 @@ MedVai PDF Suite is a free, open-source, offline Windows application for:
 
 PDFs stay on the user's computer. The application does not upload documents or require an online account.
 
+## Video Walkthrough
+
+Watch the complete MedVai PDF Suite walkthrough:
+
+[![Watch the MedVai PDF Suite Walkthrough](https://img.youtube.com/vi/UhyOeAk_r7U/maxresdefault.jpg)](https://youtu.be/UhyOeAk_r7U)
+
 ## Download for Windows
 
 Open the repository's **Releases** section and download the latest Windows x64 ZIP. Extract the ZIP, then run `MedVai_PDF_Suite.exe`.
